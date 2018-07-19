@@ -1,0 +1,16 @@
+{
+  "name": "parcel-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zwwtj2014/parcel-exercise.git",
+  "author": "clam <coderzww@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  }
+}
